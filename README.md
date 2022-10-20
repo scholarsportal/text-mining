@@ -36,7 +36,7 @@ https://journals.scholarsportal.info/search?q=covid+19&search_in=anywhere&op=AND
 
 ## Harvesting
 
-Now that you have a CSV file of all the data you'd like to harvest, run the harvester script: `python harvester.py`
+Now that you have a CSV file of all the data you'd like to harvest, run the harvester script: `python3 harvester.py`
 
 This script will loop through the CSV file and harvest the full metadata along with the extracted full text of the article into a [json lines](https://jsonlines.org/) file. These files can grow quite large very fast so make sure you have the appropriate disk space!
 

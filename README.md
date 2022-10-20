@@ -1,6 +1,6 @@
 # Text Mining Scholars Portal Journals
 
-This repository is intended to document the APIs on [Scholars Portal Journals](https://journals.scholarsportal.info/) that will enable you to build datasets. 
+This repository documents the APIs on [Scholars Portal Journals](https://journals.scholarsportal.info/) that will let you build datasets from our database of over 65 million journal articles.
 
 The python scripts found here are intended for demonstration purposes and make use of the [pandas library](https://pandas.pydata.org).
 

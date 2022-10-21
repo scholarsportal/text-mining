@@ -4,7 +4,7 @@ This repository documents the APIs on [Scholars Portal Journals](https://journal
 
 The python scripts found here are intended for demonstration purposes and make use of the [pandas library](https://pandas.pydata.org). 
 
-**To access any of the API links, you'll need to be within your university's IP ranges.** 
+**To access any of the API links, you'll need to be within your university's IP ranges. At the moment this is only available to Ontario universities.** 
 
 ## Building a corpus file
 

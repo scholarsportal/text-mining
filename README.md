@@ -72,7 +72,7 @@ If there's a PDF file, this will get it.
 
 ## Feedback
 
-We always want to improve our services so please let us know what works and what doesn't. Are there any features you'd like to see? Are there problems with the data your harvesting? Also, we'd love to hear about what your doing with the data!
+We always want to improve our services so please let us know what works and what doesn't. Are there any features you'd like to see? Are there problems with the data you're harvesting? 
 
 journals@scholarsportal.info
 

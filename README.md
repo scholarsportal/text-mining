@@ -70,6 +70,12 @@ https://journals.scholarsportal.info/data/pdf/08878994/v136icomplete/28_satdippw
 
 If there's a PDF file, this will get it.
 
+### Resolving DOIs
+
+If you have a list of DOIs you'd like to harvest, you can resolve the DOI like so:
+
+https://journals.scholarsportal.info/data/doi/10.1016/j.pediatrneurol.2022.07.006
+
 ## Feedback
 
 We always want to improve our services so please let us know what works and what doesn't. Are there any features you'd like to see? Are there problems with the data you're harvesting? 
